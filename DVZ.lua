@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-dummies-vs-noobs-gunmod-217846"))()

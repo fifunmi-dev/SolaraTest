@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/8bmk/b162d6f02d2b7344a54fa4ca12b9fc7f/raw/0cbb87c9d9c12a1e38b084f41ad6e9c6f648b628/apex-prime"))()

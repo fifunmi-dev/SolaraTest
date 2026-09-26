@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kenniel123/BloxFruits/refs/heads/main/BloxFruits"))() 

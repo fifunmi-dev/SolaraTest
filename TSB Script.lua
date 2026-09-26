@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/fwrgotten-alt/25ms/refs/heads/main/raging'))()

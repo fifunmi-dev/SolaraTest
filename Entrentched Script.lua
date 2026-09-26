@@ -1,0 +1,1 @@
+loadstring(game:HttpGet'https://raw.githubusercontent.com/Hplayfree25/luaLibrary/refs/heads/master/NewG.lua')()

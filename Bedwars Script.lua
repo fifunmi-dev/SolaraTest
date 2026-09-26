@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://files.vapevoidware.xyz/VapeVoidware/VWRewrite/main/NewMainScript.lua", true))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/DOORS-gween-soda-script-idk-228801"))()
